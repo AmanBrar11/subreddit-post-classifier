@@ -69,9 +69,11 @@ The significantly higher recall compared to precision suggests that the model is
 The F1 score, being a reasonable mean of precision and recall, provides a balanced view of the model's performance. An F1 score of 0.82 indicates that the model achieves a decent balance between recall and precision, despite the disparity between them.
 
 In summary, while the model demonstrates high accuracy and recall, indicating its capability to identify most positive cases, the relatively lower precision suggests room for improvement in reducing false positives. This analysis underscores the importance of considering multiple metrics beyond accuracy to gain a comprehensive understanding of a classifier’s performance, particularly in the context of the problem's specific needs and constraints.
+
 ## Conclusion and Discussion
 
 A few challenges that I encountered during this project was dealing with an extremely large dataset along with complex machine learning models. To combat this I used a smaller sample size to do some of the analysis, but this still involved a lot of waiting. Overall, this project demonstrates a lot of potential. By successfully classifying Reddit posts into their respective subreddits, this project not only highlights the effectiveness of Natural Language Processing in content classification but also exhibits its application in broader digital content management and analysis. Such a classifier can be instrumental in areas like content moderation, trend identification, and user engagement analysis, offering invaluable tools for both social media platforms and marketers. The insights gained from this project underscore the transformative impact of machine learning in interpreting and organizing vast amounts of data in the digital age.
+
 ---
 
 To get started with this project, clone the repository and install the necessary dependencies. If you have any questions or would like to contribute to the project, please feel free to open an issue or submit a pull request.
